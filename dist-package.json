@@ -1,0 +1,45 @@
+{
+  "name": "intouch-international-phone",
+  "version": "1.0.0",
+  "license": "MIT",
+  "private": false,
+  "author": {
+    "name": "Mostafa Raafat",
+    "email": "mraafatsaad94@gmail.com",
+    "url": "https://intouch.com"
+  },
+  "bugs": {
+    "url": "https://github.com/mostafa-raafat/intouch-international-phone/issues"
+  },
+  "peerDependencies": {
+    "@angular/core": "^4.0.0 || ^5.0.0 || ^6.0.0 || ^7.0.0"
+  },
+  "deprecated": false,
+  "description": "international phone validator",
+  "homepage": "https://github.com/mostafa-raafat/intouch-international-phone",
+  "keywords": [
+    "angular",
+    "angular 2",
+    "angular 4",
+    "angular 5",
+    "angular 6",
+    "ng",
+    "ngx",
+    "ng2",
+    "ng4",
+    "ng5",
+    "ng6",
+    "international",
+    "phone",
+    "validator"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mostafa-raafat/intouch-international-phone.git"
+  },
+  "main": "bundles/intouch-international-phone.umd.js",
+  "module": "intouch-international-phone.es5.js",
+  "es2015": "intouch-international-phone.js",
+  "typings": "intouch-international-phone.d.ts",
+  "metadata": "intouch-international-phone.metadata.json"
+}
